@@ -1,0 +1,15 @@
+"problemMatcher": {
+    "owner": "c",
+    "fileLocation": [
+        "relative",
+        "${workspaceFolder}/300_OPSW/340_CODE/_build/"
+    ],
+    "pattern": {
+        "regexp": "^\"(.+)\", line ([0-9]+): (.+) [(].+:.+[)]: (.+)$",
+        "file": 1,
+        "line": 2,
+        //"column": 3,
+        "severity": 3,
+        "message": 4
+    }
+}
