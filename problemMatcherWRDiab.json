@@ -2,7 +2,7 @@
     "owner": "c",
     "fileLocation": [
         "relative",
-        "${workspaceFolder}/300_OPSW/340_CODE/_build/"
+        "${workspaceFolder}/"
     ],
     "pattern": {
         "regexp": "^\"(.+)\", line ([0-9]+): (.+) [(].+:.+[)]: (.+)$",
